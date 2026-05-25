@@ -1,6 +1,6 @@
-# USBSafe Decryption Scripts
+# 포렌식 기술과 암호 과제
 
-이 폴더는 USBSafe 관련 이미지 파일을 복호화하기 위한 Python 스크립트와 원본 이미지 파일로 구성되어 있습니다.
+본 폴더는 USBSafe 이미지 파일을 복호화하기 위한 Python 스크립트와 원본 이미지 파일 .img로 구성되어 있습니다.
 
 ## 파일 구성
 
@@ -14,10 +14,8 @@
 
 ## 실행 환경
 
-- Python 3.10 이상 권장
-- macOS, Windows, Linux 모두 실행 가능
-- 필요한 외부 Python 패키지:
-  - `cryptography`
+- Python 3.10 이상
+- Python 패키지 `cryptography` 설치 필요
 
 ## 처음 실행하는 방법
 
